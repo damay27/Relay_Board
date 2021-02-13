@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N2222
+D 800mA Ic, 50V Vce, NPN Transistor, TO-39
+K NPN Transistor
+F http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF
+$ENDCMP
+#
+$CMP BC140
+D 1A Ic, 40V Vce, NPN Transistor, TO-39
+K NPN Transistor
+F http://www.farnell.com/datasheets/296634.pdf
+$ENDCMP
+#
+$CMP BC141
+D 1A Ic, 60V Vce, NPN Transistor, TO-39
+K NPN Transistor
+F http://www.farnell.com/datasheets/296634.pdf
+$ENDCMP
+#
+#End Doc Library
